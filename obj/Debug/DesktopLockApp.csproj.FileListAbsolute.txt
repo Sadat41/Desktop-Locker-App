@@ -1,0 +1,12 @@
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.csproj.AssemblyReference.cache
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.Form1.resources
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.Properties.Resources.resources
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.csproj.GenerateResource.cache
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.csproj.CoreCompileInputs.cache
+G:\Projects\Desktop Lock\DesktopLockApp\bin\Debug\DesktopLockApp.exe.config
+G:\Projects\Desktop Lock\DesktopLockApp\bin\Debug\DesktopLockApp.exe
+G:\Projects\Desktop Lock\DesktopLockApp\bin\Debug\DesktopLockApp.pdb
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.exe
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.pdb
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.LockForm.resources
+G:\Projects\Desktop Lock\DesktopLockApp\obj\Debug\DesktopLockApp.PasswordPromptForm.resources
